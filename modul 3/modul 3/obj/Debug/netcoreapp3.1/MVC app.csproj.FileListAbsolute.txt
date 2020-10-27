@@ -1,0 +1,19 @@
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\bin\Debug\netcoreapp3.1\MVC app.exe
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\bin\Debug\netcoreapp3.1\MVC app.deps.json
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\bin\Debug\netcoreapp3.1\MVC app.runtimeconfig.json
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\bin\Debug\netcoreapp3.1\MVC app.runtimeconfig.dev.json
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\bin\Debug\netcoreapp3.1\MVC app.dll
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\bin\Debug\netcoreapp3.1\MVC app.pdb
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\App.g.cs
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MVC app_MarkupCompile.cache
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MVC app_MarkupCompile.lref
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MVC app.g.resources
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MVC app.AssemblyInfoInputs.cache
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MVC app.AssemblyInfo.cs
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MVC app.csproj.CoreCompileInputs.cache
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MVC app.dll
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MVC app.pdb
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MVC app.genruntimeconfig.cache
+D:\kuliah\pemrograman lanjut\MVC app\MVC app\obj\Debug\netcoreapp3.1\MVC app.csprojAssemblyReference.cache
